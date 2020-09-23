@@ -1,0 +1,17 @@
+.input-group {
+    display: flex;
+    justify-content: space-between;
+}
+#textAreaAddTask {
+    width: 1000px;
+    height: 100px;
+    outline : none;
+    resize : none;
+}
+
+#nameAddTask {
+    width: 200px;
+    height: 100px;
+    outline : none;
+    resize : none;
+}
